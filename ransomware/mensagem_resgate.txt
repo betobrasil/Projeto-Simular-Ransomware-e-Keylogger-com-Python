@@ -1,0 +1,15 @@
+# SIMULAÇÃO EDUCACIONAL DE RANSOMWARE
+
+Este computador está participando de uma simulação controlada de segurança da informação.
+
+Um arquivo de teste foi criptografado utilizando a biblioteca Python Cryptography (Fernet).
+
+**IMPORTANTE:**
+- Nenhum arquivo pessoal foi afetado.
+- Nenhum pagamento é solicitado.
+- O arquivo original foi preservado.
+- O conteúdo pode ser recuperado pelo processo de descriptografia do laboratório.
+
+Este exercício tem finalidade exclusivamente educacional.
+
+Projeto: Malware Python — Laboratório de Cibersegurança.

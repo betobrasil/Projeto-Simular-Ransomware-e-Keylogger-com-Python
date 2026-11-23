@@ -1,0 +1,13 @@
+
+
+========================================
+[SESSAO INICIADA EM 06/11/2026 19:05:49]
+========================================
+[06/11/2026 19:06:18] (Documento1 - WPS Office) teste de teclado
+senha [DESCONHECIDA][DESCONHECIDA][SHIFT]#348884[SHIFT_R][SHIFT_R][SHIFT_R][SHIFT_R][SHIFT_R][SHIFT_R]Gh[SHIFT]$$yyy
+nofiiiduj sdioooso
+asjjhijiasiasii
+[06/11/2026 19:07:01] (Prompt de Comando - python  keylogger/registro_simulado.py) [CTRL_L][CTRL_L][CTRL_L][CTRL_L][CTRL_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L][ALT_L]
+========================================
+[SESSAO ENCERRADA EM 06/11/2026 19:07:03]
+========================================
