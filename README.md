@@ -8,6 +8,14 @@ Utilizando a linguagem Python, foram desenvolvidas simulações em ambiente cont
 
 O projeto tem finalidade exclusivamente educacional, buscando também apresentar medidas de prevenção e proteção contra essas ameaças digitais.
 
+## ⚠️ AVISO IMPORTANTE
+
+Este repositório é estritamente para fins educacionais.
+
+O conteúdo deste repositório SOMENTE deve ser executado em ambiente controlado, como máquinas virtuais. Recomenda-se criar um snapshot antes de qualquer execução para poder restaurar o estado anterior.
+
+Nunca execute estes scripts em ambiente de trabalho, produção ou em máquinas de terceiros sem consentimento explícito. O uso não autorizado dessas técnicas é crime previsto na Lei nº 12.737/2012 (Lei Carolina Dieckmann) e no Marco Civil da Internet (Lei nº 12.965/2014).
+
 ## Objetivos
 
 - Compreender o funcionamento de um ransomware.
@@ -127,7 +135,6 @@ projeto-malware-python/
 │   ├── 06-teste-registro.png
 │   └── 07-registro-teclas.png
 │
-├── .gitignore
 └── README.md
 ```
 
